@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://OpenSYSU/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://OpenSYSU/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/first-page/</loc>
+    <loc>https://OpenSYSU/docs/first-page/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/</loc>
+    <loc>https://OpenSYSU/docs/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/folder/</loc>
+    <loc>https://OpenSYSU/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/folder/leaf/</loc>
+    <loc>https://OpenSYSU/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://OpenSYSU/docs/%E6%99%BA%E8%83%BD%E5%B7%A5%E7%A8%8B%E5%AD%A6%E9%99%A2/leaf/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://OpenSYSU/docs/%E6%99%BA%E8%83%BD%E5%B7%A5%E7%A8%8B%E5%AD%A6%E9%99%A2/</loc>
   </url>
 </urlset>
